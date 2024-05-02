@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/superupdatercenter.iml" filepath="$PROJECT_DIR$/.idea/superupdatercenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/super_updater_center.iml" filepath="$PROJECT_DIR$/.idea/super_updater_center.iml" />
     </modules>
   </component>
 </project>
